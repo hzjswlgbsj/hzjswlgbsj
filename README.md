@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sixty
-- 👀 I’m interested in collaborate on documents online.
+- 👀 I’m interested in CRDTs, rich text editor, and collaborate on documents online.
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 📫 reach me
   - mail: hiliulin@aliyun.com
