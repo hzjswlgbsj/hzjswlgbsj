@@ -1,7 +1,7 @@
 [Blog](https://www.sixtyden.com)
 - 👋 Hi, I’m @sixty
 - 👀 I’m interested in CRDTs, rich text editor, and collaborate on documents online.
-- 🌱 I’m currently learning Data Structures and Algorithms
+- 🏠 I live in Nanjing
 - 📫 reach me
   - mail: hiliulin@aliyun.com
   - wechat: hzjswlgbsj
